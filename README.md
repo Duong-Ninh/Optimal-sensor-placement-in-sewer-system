@@ -1,4 +1,5 @@
 Optimal Sensor Placement in Sewer Systems
+Authors: Thi Hai Duong Ninh, Nhu Cuong Do, Wei Zeng, Martin Francis Lambert.
 
 This repository presents two optimization problems for determining optimal sensor placements in sewer systems. The problems aim to enhance monitoring efficiency by strategically minimizing the number of sensors and determining their best locations to meet specific requirements. The optimization tasks are implemented using Python.
 
